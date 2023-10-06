@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.bitMaskSearch;
+package main.search.exhaustiveSearch.bitMaskSearch;
 
 import java.util.Scanner;
 

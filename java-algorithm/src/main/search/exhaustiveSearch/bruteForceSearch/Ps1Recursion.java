@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.bruteForceSearch;
+package main.search.exhaustiveSearch.bruteForceSearch;
 
 import java.util.Scanner;
 

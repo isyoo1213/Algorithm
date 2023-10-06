@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.permutationSearch;
+package main.search.exhaustiveSearch.permutationSearch;
 
 import java.util.ArrayList;
 import java.util.HashSet;

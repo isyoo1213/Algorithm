@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.combination;
+package main.search.exhaustiveSearch.combination;
 
 public class Ps1UsingRecursion {
     public static void main(String[] args) {

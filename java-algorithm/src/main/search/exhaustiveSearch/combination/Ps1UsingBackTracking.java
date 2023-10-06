@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.combination;
+package main.search.exhaustiveSearch.combination;
 
 /**
  * DFS와 BackTracking의 차이

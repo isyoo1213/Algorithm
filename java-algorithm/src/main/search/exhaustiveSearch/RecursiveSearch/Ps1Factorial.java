@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.RecursiveSearch;
+package main.search.exhaustiveSearch.RecursiveSearch;
 
 public class Ps1Factorial {
     public static void main(String[] args) {

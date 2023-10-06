@@ -1,4 +1,4 @@
-package main.sourcecode.search.exhaustiveSearch.bitMaskSearch;
+package main.search.exhaustiveSearch.bitMaskSearch;
 
 public class Ps1AllSubSet {
     public static void main(String[] args) {
