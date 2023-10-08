@@ -1,4 +1,4 @@
-package main.sort;
+package main.sort.countingSort;
 
 public class MyCountingSort {
     public static void main(String[] args) {

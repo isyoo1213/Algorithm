@@ -1,4 +1,4 @@
-package main.sort;
+package main.sort.quickSort;
 
 public class MyQuickSort {
     private static void sort(int[] a) {

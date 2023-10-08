@@ -1,4 +1,4 @@
-package main.sort;
+package main.sort.heapSort;
 
 public class MyHeapSort {
 
